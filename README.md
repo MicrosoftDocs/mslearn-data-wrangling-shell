@@ -14,11 +14,13 @@ This repo has the sample dataset for the MS Learn module "Use the UNIX shell to 
 
 Outline the file contents of the repository. It helps users navigate the codebase, build configuration and any related assets.
 
-| File/folder       | Description                                |
-| ----------------- | ------------------------------------------ |
-| `.gitignore`      | Define what to ignore at commit time.      |
-| `README.md`       | This README file.                          |
-| `LICENSE`         | The license for the sample.                |
+| File/folder             | Description                                |
+| ----------------------- | ------------------------------------------ |
+| `.gitignore`            | Define what to ignore at commit time.      |
+| `README.md`             | This README file.                          |
+| `LICENSE`               | The license for the sample.                |
+| `NASA-logs-1995.txt`    | The license for the sample.                |
+| `NASA-software-API.txt` | The license for the sample.                |
 
 ## Contributing
 
