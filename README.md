@@ -19,8 +19,8 @@ Outline the file contents of the repository. It helps users navigate the codebas
 | `.gitignore`            | Define what to ignore at commit time.      |
 | `README.md`             | This README file.                          |
 | `LICENSE`               | The license for the sample.                |
-| `NASA-logs-1995.txt`    | The license for the sample.                |
-| `NASA-software-API.txt` | The license for the sample.                |
+| `NASA-logs-1995.txt`    | Data file #1                               |
+| `NASA-software-API.txt` | Data file #2                               |
 
 ## Contributing
 
